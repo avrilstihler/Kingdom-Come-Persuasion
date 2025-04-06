@@ -38,6 +38,23 @@ Escolhas ruins ou azar podem levar à execução. As respostas incorretas são a
 ### 🏆 Vitória
 Se convencer o rei em todas as perguntas, você será absolvido e viverá para contar a história!
 
+##  📸 Galeria de Imagens 
+
+Abaixo está uma tabela com os prints do aplicativo, organizados por etapa:
+
+| 🏠 Tela Inicial | Descrição Detalhada | Nome do Jogador | 
+|---|---|---|
+| ![Tela Inicial](images/tela.png) | ![Descrição Detalhada](images/mensagem.png) | ![Nome do Jogador](images/nome.png) |
+
+| Dificuldade | Atributo Forte | Pergunta |
+|---|---|---|
+| ![Dificuldade](images/dificuldade.png) | ![Atributo Forte](images/atributo.jpeg) | ![Pergunta](images/pergunta.png) |
+
+| Mensagem Vitória | Mensagem Derrota | Descrição Derrota | 
+|---|---|---|
+| ![Mensagem Vitória](images/sobreviveu.png) | ![Mensagem Derrota](images/derrota.png) | ![Descrição Derrota](images/fim.png) |
+
+
 ## 🧾 Tecnologias Utilizadas
 
 - **JavaScript, HTML e CSS**
