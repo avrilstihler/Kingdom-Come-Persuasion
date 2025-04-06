@@ -7,7 +7,8 @@ Ao invés de batalhas sangrentas e combates de espada, aqui o verdadeiro desafio
 ![Tela Inicial](images/tela.png)
 
 Clique [aqui]() para acessar o game.
-## 🎮 Como Jogar
+
+---
 
 Ao iniciar o jogo, você será apresentado a uma narrativa imersiva no castelo do Rei Henrique IV. Você poderá escolher se deseja ler a introdução detalhada do seu julgamento.
 
@@ -18,7 +19,7 @@ Ao iniciar o jogo, você será apresentado a uma narrativa imersiva no castelo d
   - `1` - Fácil: Você receberá um atributo forte (Astúcia, Honra ou Intimidação) que melhora suas chances de sucesso.
   - `2` - Difícil: Suas respostas terão 50% de chance de sucesso, independentemente do atributo.
 
-### 🧠 Sistema de Jogo
+### 🎮 Sistema de Jogo
 
 Cada pergunta apresenta três alternativas, cada uma relacionada a um atributo:
 - **Astúcia**
@@ -32,27 +33,26 @@ O sucesso ou fracasso de sua resposta dependerá:
 
 Você começa com **1 Ponto de Persuasão**, que pode ser usado para tentar responder novamente em caso de erro.
 
-### ❌ Derrota
-Escolhas ruins ou azar podem levar à execução. As respostas incorretas são acompanhadas de narrativas intensas e dramáticas.
 
-### 🏆 Vitória
-Se convencer o rei em todas as perguntas, você será absolvido e viverá para contar a história!
+- Escolhas ruins ou azar podem levar à execução.
 
-##  📸 Galeria de Imagens 
+- Se convencer o rei em todas as perguntas, você será absolvido e viverá para contar a história!
 
-Abaixo está uma tabela com os prints do aplicativo, organizados por etapa:
+## ✅ Exemplo de Gameplay
 
-| 🏠 Mensagem Inicial | Descrição Detalhada | Nome do Jogador | 
+Abaixo está uma tabela com os prints do game, organizados por etapa:
+
+| 🏠 Mensagem Inicial | 🤴 Descrição Detalhada | ✏️ Nome do Jogador | 
 |---|---|---|
 | ![Tela Inicial](images/inicio.png) | ![Descrição Detalhada](images/mensagem.png) | ![Nome do Jogador](images/nome.png) |
 
-| Dificuldade | Atributo Forte | Pergunta |
+| ⚖️ Dificuldade | 👑 Atributo Forte | ❓ Pergunta |
 |---|---|---|
 | ![Dificuldade](images/dificuldade.png) | ![Atributo Forte](images/atributo.png) | ![Pergunta](images/pergunta.png) |
 
-| Mensagem Vitória | Mensagem Derrota | Descrição Derrota | 
+| 🏆 Mensagem Vitória | ❌ Mensagem Derrota | ☠️ Descrição Derrota | 
 |---|---|---|
-| ![Mensagem Vitória](images/sobreviveu.png) | ![Mensagem Derrota](images/derrota.png) | ![Descrição Derrota](images/fim.png) |
+| ![Mensagem Vitória](images/sobreviveu.png) | ![Mensagem Derrota](images/derrota.png) | ![ ⚔️ Descrição Derrota](images/fim.png) |
 
 
 ## 🧾 Tecnologias Utilizadas
