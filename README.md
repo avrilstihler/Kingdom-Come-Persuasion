@@ -1,6 +1,6 @@
 # 🏰 Kingdom Come: Persuasion
 
-Esse jogo de decisão em texto é uma experiência interativa ambientada no universo do jogo *Kingdom Come: Deliverance*, criada durante a Imersão DEV 2025.
+Esse é um jogo de decisão em texto com uma experiência interativa ambientada no universo do *Kingdom Come: Deliverance*.
 
 Ao invés de batalhas sangrentas e combates de espada, aqui o verdadeiro desafio está nas palavras. Você será colocado diante do Rei Henrique IV, acusado de traição, com o destino à beira da forca. Sua única arma? A persuasão.
 
