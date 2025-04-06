@@ -6,7 +6,7 @@ Ao invés de batalhas sangrentas e combates de espada, aqui o verdadeiro desafio
 
 ![Tela Inicial](images/tela.png)
 
-Clique [aqui]() para acessar o game.
+Clique [aqui](https://avrilstihler.github.io/Kingdom-Come-Persuasion/) para acessar o game.
 
 ---
 
@@ -42,7 +42,7 @@ Você começa com **1 Ponto de Persuasão**, que pode ser usado para tentar resp
 
 Abaixo está uma tabela com os prints do game, organizados por etapa:
 
-| 🏠 Mensagem Inicial | 🤴 Descrição Detalhada | ✏️ Nome do Jogador | 
+| 🏠 Mensagem Inicial | 🤴 Descrição Detalhada | 📝 Nome do Jogador | 
 |---|---|---|
 | ![Tela Inicial](images/inicio.png) | ![Descrição Detalhada](images/mensagem.png) | ![Nome do Jogador](images/nome.png) |
 
