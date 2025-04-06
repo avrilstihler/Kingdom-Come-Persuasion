@@ -42,13 +42,13 @@ Se convencer o rei em todas as perguntas, você será absolvido e viverá para c
 
 Abaixo está uma tabela com os prints do aplicativo, organizados por etapa:
 
-| 🏠 Tela Inicial | Descrição Detalhada | Nome do Jogador | 
+| 🏠 Mensagem Inicial | Descrição Detalhada | Nome do Jogador | 
 |---|---|---|
-| ![Tela Inicial](images/tela.png) | ![Descrição Detalhada](images/mensagem.png) | ![Nome do Jogador](images/nome.png) |
+| ![Tela Inicial](images/inicio.png) | ![Descrição Detalhada](images/mensagem.png) | ![Nome do Jogador](images/nome.png) |
 
 | Dificuldade | Atributo Forte | Pergunta |
 |---|---|---|
-| ![Dificuldade](images/dificuldade.png) | ![Atributo Forte](images/atributo.jpeg) | ![Pergunta](images/pergunta.png) |
+| ![Dificuldade](images/dificuldade.png) | ![Atributo Forte](images/atributo.png) | ![Pergunta](images/pergunta.png) |
 
 | Mensagem Vitória | Mensagem Derrota | Descrição Derrota | 
 |---|---|---|
