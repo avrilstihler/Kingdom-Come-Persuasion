@@ -1,0 +1,114 @@
+/* Importação da fonte Old London */
+@font-face {
+    font-family: 'Old London';
+    src: url('fonts/OldLondon.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Augusta';
+    src: url('fonts/Augusta.ttf') format('truetype');
+}
+
+/* Estilos Globais */
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: 'Old London', serif;
+    color: white;
+    position: relative;
+}
+
+/* Estilização do Logo */
+.logo {
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    max-width: 100px;
+    width: auto;
+}
+
+.container {
+    background: url('https://i.postimg.cc/MK6872f7/2301920.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Content div for text and button */
+.content {
+    text-align: center;
+    font-family: 'Augusta', serif;
+    color: rgb(111, 50, 0);
+    background:  url('https://i.postimg.cc/MK4mkLfC/Curr-culo-20240129-233515-0000-pdf.png') no-repeat center center/cover;
+    padding: 30px 50px;
+    border-radius: 10px;
+    
+    max-width: 600px;
+    font-weight: 500;
+}
+
+/* Title Styling */
+.content h2 {
+    font-family: 'Old London', serif;
+    margin-bottom: 20px;
+    font-size: 4em;
+    color: rgb(111, 50, 0);
+}
+
+/* Button Styles */
+button {
+    background: linear-gradient(45deg, #7b1818, #a82222);
+    border: 2px solid #ffcc00;
+    padding: 12px 24px;
+    font-size: 1.2em;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Cinzel', serif;
+    border-radius: 6px;
+    box-shadow: 0 5px 10px rgba(255, 136, 0, 0.5);
+}
+
+button:hover {
+    background: linear-gradient(45deg, #a82222, #d42929);
+    border: 2px solid #ffcc00;
+    padding: 12px 24px;
+    font-size: 1.2em;
+    transform: scale(1.1);
+    box-shadow: 0 5px 10px rgba(255, 0, 0, 0.5);
+}
+
+/* Dialog Box Styling */
+.dialog-box {
+    background-color: rgba(20, 20, 20, 0.85);
+    border: 2px solid #cfa75a;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.8);
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    font-family: 'Augusta', serif;
+    padding: 10px;
+    font-size: 0.9em;
+    color: #cfa75a;
+}
+
+/* Adding a torch flame effect */
+@keyframes flicker {
+    0% { text-shadow: 0px 0px 10px #ffcc00, 0px 0px 20px #ff7700; }
+    50% { text-shadow: 0px 0px 15px #ff5500, 0px 0px 25px #ff2200; }
+    100% { text-shadow: 0px 0px 10px #ffcc00, 0px 0px 20px #ff7700; }
+}
+
+.flicker {
+    animation: flicker 1s infinite alternate;
+    color: #ffcc00;
+}
